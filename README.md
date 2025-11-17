@@ -35,10 +35,5 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 Ce projet est sous licence MIT.
 
-Pour une liste : 
-* 1 
-* 2
-* 3
-
 [Voir plus](https://example.com)
 
